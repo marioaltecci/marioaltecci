@@ -23,6 +23,8 @@ My GitHub contribution graph doesn't show the full picture.
 * 🛠 **Bug Hunting:** Detailed reports with steps to reproduce.
 * 🌐 **Localization:** Ensuring high-quality translations and proper context.
 * 📈 **Product Quality:** Helping developers fix those "small" UI bugs that ruin the experience.
+
+* 
 * ### Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marioaltecci)
 
