@@ -1,5 +1,11 @@
 # Hi there! I'm Mario Altecci 🔍
 
+### Toolbox & Interests:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 I am an independent **Manual QA Specialist** and Open Source enthusiast. I do this for free in my spare time because I believe software should be intuitive, polished, and accessible.
 
 ### Why I focus on Manual QA (vs. Automation):
